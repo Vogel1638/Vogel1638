@@ -1,6 +1,6 @@
 # 👋 Hey, I'm Levin!
 
-I'm a **Web Design & Development student** at **SAE Zürich** and currently part of the team at **[MyCityHighlight AG](https://www.mycityhihglight.com)**, where I work on digital solutions for interactive city and leisure experiences.  
+I'm a **Web Design & Development student** at **SAE Zürich** and currently part of the team at **[MyCityHighlight AG](https://www.mycityhighlight.com)**, where I work on digital solutions for interactive city and leisure experiences.  
 
 At the moment, I'm focusing on my diploma project **Plannify** – a modern event planning web app that makes organizing small private gatherings simple and fun.  
 
